@@ -1,4 +1,4 @@
-## Olá! 👋 Eu sou o Caio Henrique
+## Olá! Eu sou o Caio Henrique 👋
 
 - 😄 Pronouns: ele/dele
 - 🌱 Atualmente estou aprendendo React
